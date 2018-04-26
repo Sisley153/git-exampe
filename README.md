@@ -1,3 +1,3 @@
 # git-example
-this is a tes
-thisis the second changet
+this is a test
+this is the second change
