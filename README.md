@@ -1,1 +1,2 @@
-# git-exampe
+# git-example
+this is a test
